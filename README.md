@@ -1,2 +1,2 @@
-# Landing page básica para site de NFT'S
+# Landing page básica para site de comércio NFT'S
  
